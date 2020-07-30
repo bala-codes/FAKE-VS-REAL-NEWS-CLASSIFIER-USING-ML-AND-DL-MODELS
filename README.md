@@ -19,7 +19,6 @@ Machine Learning algorithms (sklearn) used in this projects,
 Checkout the ML based classifiers part 1 at [Google Colab](https://colab.research.google.com/github/bala-codes/FAKE-VS-REAL-NEWS-CLASSIFIER-USING-ML-AND-DL-MODELS/blob/master/codes%20(ML)/Part%201%20of%20Fake%20News%20Classifier%20Training%20and%20Testing.ipynb) and part 2 at [Google Colab](https://colab.research.google.com/github/bala-codes/FAKE-VS-REAL-NEWS-CLASSIFIER-USING-ML-AND-DL-MODELS/blob/master/codes%20(ML)/Part%202%20of%20Fake%20or%20Real%20News%20Classifier%20Single%20Input%20Testing.ipynb)
 
 
-
 # VANILLA NEURAL NETWORK, CNN + WORD EMBEDDINGS
 - The Deep Learning (NN) Scores are : Training Accuracy: 0.9871 & Testing Accuracy:  0.8953
 
@@ -33,11 +32,11 @@ Checkout at [Google Colab](https://colab.research.google.com/github/bala-codes/F
 
 # LSTM AND WORD EMBEDDINGS
 
-## The Deep Learning (LSTM + Keras Embedding) Scores are : Training Accuracy: 0.9998 & Testing Accuracy:  0.9002
+- The Deep Learning (LSTM + Keras Embedding) Scores are : Training Accuracy: 0.9998 & Testing Accuracy:  0.9002
 
 Checkout at [Google Colab](https://colab.research.google.com/github/bala-codes/FAKE-VS-REAL-NEWS-CLASSIFIER-USING-ML-AND-DL-MODELS/blob/master/codes%20(LSTM%20%2B%20W_Embedding)/Fake%20News%20Classifier%20LSTM%20with%20Keras%20Embedding.ipynb)
 
 
-## The Deep Learning (LSTM + Glove Embedding) Scores are : Training Accuracy: 0.9723 & Testing Accuracy:  0.9077
+- The Deep Learning (LSTM + Glove Embedding) Scores are : Training Accuracy: 0.9723 & Testing Accuracy:  0.9077
 
 Checkout at [Google Colab](https://colab.research.google.com/github/bala-codes/FAKE-VS-REAL-NEWS-CLASSIFIER-USING-ML-AND-DL-MODELS/blob/master/codes%20(LSTM%20%2B%20W_Embedding)/Fake%20News%20Classifier%20LSTM%20with%20Glove%20Embedding.ipynb)
