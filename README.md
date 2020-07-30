@@ -14,7 +14,7 @@ Machine Learning algorithms (sklearn) used in this projects,
 - [CalibratedClassifierCV](http://scikit-learn.org/stable/modules/generated/sklearn.calibration.CalibratedClassifierCV.html)
 - [KNeighborsClassifier](http://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
 
-## After Hyperparameters tuning, the best Machine Learning Ensemble Score is 90%
+** After Hyperparameters tuning, the best Machine Learning Ensemble Score is 90% **
 
 Checkout the ML based classifiers part 1 at [Google Colab](https://colab.research.google.com/github/bala-codes/FAKE-VS-REAL-NEWS-CLASSIFIER-USING-ML-AND-DL-MODELS/blob/master/codes%20(ML)/Part%201%20of%20Fake%20News%20Classifier%20Training%20and%20Testing.ipynb) and part 2 at [Google Colab](https://colab.research.google.com/github/bala-codes/FAKE-VS-REAL-NEWS-CLASSIFIER-USING-ML-AND-DL-MODELS/blob/master/codes%20(ML)/Part%202%20of%20Fake%20or%20Real%20News%20Classifier%20Single%20Input%20Testing.ipynb)
 
