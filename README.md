@@ -1,4 +1,4 @@
-# FAKE-VS-REAL-NEWS-CLASSIFIER-USING-ML-AND-DL-MODELS
+# FAKE VS REAL NEWS CLASSIFIER USING MACHINE AND DEEP LEARNING.
 In this project, I've built an Machine and deep learning based classifiers (Ensemble) to distinguish Real Vs Fake news from the news data.
 
 # MACHINE LEARNING 
