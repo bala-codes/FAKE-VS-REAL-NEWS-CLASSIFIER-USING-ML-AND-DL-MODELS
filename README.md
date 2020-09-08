@@ -2,7 +2,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-In this project, I've built an Machine and deep learning based classifiers (Ensemble) to distinguish Real Vs Fake news from the news data.
+In this repo, I've built an Machine and deep learning based classifiers (Ensemble) to distinguish Real Vs Fake news from the news data.
 
 # MACHINE LEARNING 
 Machine Learning algorithms (sklearn) used in this projects, 
